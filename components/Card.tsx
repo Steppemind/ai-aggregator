@@ -1,0 +1,1 @@
+// React-компонент Card с пропсами title и description
